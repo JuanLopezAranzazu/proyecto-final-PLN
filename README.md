@@ -88,3 +88,10 @@ No pretende competir con sistemas modernos basados en aprendizaje profundo ni cu
 * Gramáticas Probabilísticas Libres de Contexto (PCFG)
 * Parsers Descendentes Recursivos
 * Árboles de Derivación
+
+---
+
+## Documentación
+
+- [Enunciado del proyecto](docs/enunciado.pdf)
+- [Informe del proyecto](docs/informe_proyecto.pdf)
