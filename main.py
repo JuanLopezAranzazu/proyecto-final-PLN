@@ -13,9 +13,8 @@ from ejemplos import ejecutar_pruebas
 
 BANNER = """
 ╔══════════════════════════════════════════════════════╗
-║     Clasificador de Mensajes — Modelos Formales      ║
+║     Clasificador de Spam — Modelos Formales      ║
 ║     CFG + Parser Recursivo + PCFG                    ║
-║     PLN Universitario — Sin ML ni librerías externas ║
 ╚══════════════════════════════════════════════════════╝
 """
 
